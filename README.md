@@ -1,7 +1,3 @@
-Here is a clean, detailed, submission-ready **README.md** written in simple English.
-I included clear sections and **placeholders where you will paste your screenshots**.
-
-You can copy and paste this directly into your GitHub repository.
 
 ---
 
@@ -77,8 +73,8 @@ aws configure
 
 Enter values when asked:
 
-* AWS Access Key ID: your access key
-* AWS Secret Access Key: your secret key
+* AWS Access Key ID: insert access key
+* AWS Secret Access Key: inserted secret access key
 * Default region:
 
   ```
@@ -178,9 +174,7 @@ After a few seconds you will see output similar to:
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 
 Outputs:
-instance_id = "i-xxxxxxxxxxxx"
-public_ip = "x.x.x.x"
-availability_zone = "ap-south-1b"
+Image pasted
 ```
 
 <img width="1836" height="736" alt="TF2" src="https://github.com/user-attachments/assets/752c7932-e79d-46d7-9279-d43d2b880949" />
@@ -276,4 +270,3 @@ You now have a working example of a full Terraform workflow including initializa
 
 ---
 
-If you want, I can also format this README with headings, bold text, or sections for submission.
